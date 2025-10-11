@@ -9,18 +9,18 @@ body{
     background-image: url("./img/tv3.png");
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 700px ;
+    background-size: 48rem ;
     min-height: 100vh;
     margin: 0;
 
     font-family: "Quantico", sans-serif;
 }
 
-/*pagina do game*/
-#container {
-    transform: translate(178%, 50%); 
 
-    width: 22%;
+#container {
+    transform: translate(152%, 43%); 
+
+    width: 25%;
 
     aspect-ratio: 1 / 1;
 
@@ -33,7 +33,6 @@ body{
 
     gap: 0;
 }
-
 
 .box{
     display: flex;
@@ -60,7 +59,6 @@ body{
     border-right: 3px solid #000000;
 }
 
-
 .box img {
   max-width: 100%;
   max-height: 100%;
@@ -69,68 +67,8 @@ body{
 }
 
 
-/*pagina do inicio*/
-#tv{
-    padding-top: 140px;
-    display: flex;
-    flex-direction: column; 
-    width: 100%;
-    gap: 1rem; 
-}
 
 
-#enter-button img{
-    width: 16%;
-    height: auto;
-}
-
-input {
-  background-color: #ffbf2b;
-  font-family: "Quantico", sans-serif;
-  font-size: 20px;
-  text-align: center;
-  width: 200px;
-  padding: 0.5rem;
-  border: 2px solid black;
-  border-radius: 5px;
-
-}
-
-label{
-    display: block;
-}
-
-form{    
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-}
-
-input,label{
-    margin-left: 0;
-    margin-bottom: 1rem;
-}
-
-#enter-button {
-  font-weight: bold;
-  font-size: 30px;
-  text-align: center;
-  background-color: #ffbf2b;
-  padding: 20px 40px;
-  border: 2px solid black;
-  cursor: pointer;
-  position: relative;
-  
-  box-shadow: inset 0 1px 0 #FFE5C4, 0 10px 0 #915100;
-  border-radius: 5px;
-}
-
-#enter-button:active {
-  top: 10px;
-  background-color: #F78900;
-  box-shadow:  0 1px 0 #FFE5C4, inset 0 -3px 0 #915100;
-}
 
 
 
