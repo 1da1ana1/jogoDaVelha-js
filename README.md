@@ -4,10 +4,8 @@ Jogo da Velhas simples, como atividade da disciplina de programação web da Fac
 O jogo é desenvolvido com foco em **interatividade, simplicidade e código modular**, proporcionando uma experiência leve e intuitiva, com um toque da minha personalidade (deixar tudo fofo)
 
 ## Demo Online
-
-<img width="990" height="782" alt="Captura de tela 2025-11-03 155646" src="https://github.com/user-attachments/assets/06861db6-df8c-422f-b5c9-199ccdf299c6" />
-Confira o projeto rodando online: [Jogo da velha](https://jogo-da-velha-js-six.vercel.app/)
-
+Confira o projeto rodando online: https://jogo-da-velha-js-six.vercel.app/
+<img width="500" height="500" alt="Captura de tela 2025-11-03 155646" src="https://github.com/user-attachments/assets/06861db6-df8c-422f-b5c9-199ccdf299c6" />
 ## Funcionalidades
 
 - Jogabilidade para dois jogadores
